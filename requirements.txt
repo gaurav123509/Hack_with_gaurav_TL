@@ -1,0 +1,8 @@
+flask==2.3.2
+flask-sqlalchemy==3.0.3
+flask-login==0.6.2
+flask-wtf==1.1.1
+python-dotenv==1.0.0
+werkzeug==2.3.7
+flask-admin==1.6.1
+pillow==10.0.1  # For image processing
